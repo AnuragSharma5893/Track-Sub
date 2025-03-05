@@ -140,6 +140,6 @@ npm run dev  # Runs in development mode (nodemon)
 ## 📜 License
 This project is licensed under the **MIT License**.
 
-👨‍💻 **Author:** [Your Name](https://github.com/your-username)  
+👨‍💻 **Author:** [Anurag Sharma](https://github.com/AnuragSharma5893)  
 🌟 If you like this project, consider giving it a ⭐ on GitHub!
 
